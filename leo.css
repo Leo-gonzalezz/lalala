@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.peregil{
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+}
+
